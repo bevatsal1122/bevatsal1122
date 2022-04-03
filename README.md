@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **bevatsal1122@gmail.com**
 
-- ⚡ Fun fact **Sassy, Classy with a touch of Badassy**
+- ⚡ Fun fact **Sassy, Classy & A Sliver of Badassy :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
