@@ -18,11 +18,10 @@
 <strong>
 I'm a Full Stack Developer with 1+ Years of hands-on experience on designing, developing and implementing Applications and Solutions using a range of Technologies, Frameworks & Programming Languages.
 
-I'm currently based in Mumbai, India.
-
 I love learning new things and developing real world projects ✨
 
-E: bevatsal1122@gmail.com <br>
+
+E: bevatsal1122@gmail.com <br />
 Let's do something great!!
 </strong>
 
@@ -58,6 +57,6 @@ Let's do something great!!
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bevatsal1122&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-<br>
+<br />
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=bevatsal1122&custom_title=Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
