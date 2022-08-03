@@ -5,11 +5,11 @@
 <br>
 
 <a href="https://linkedin.com/in/bevatsal1122" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=black alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=black style="margin-bottom: 4px;" />
 </a>
 
 <a href="https://www.codechef.com/users/bevatsal1122" target="_blank">
-<img src=https://img.shields.io/badge/codechef-%2300acee.svg?color=6F5647&style=for-the-badge&logo=codechef&logoColor=black alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/codechef-%2300acee.svg?color=6F5647&style=for-the-badge&logo=codechef&logoColor=black style="margin-bottom: 4px;" />
 </a>
 
 <br />
@@ -32,7 +32,7 @@ Let's do something great!!
 <p>
 <h1 align="center"><strong>Tech Store</strong></h1>
 <br>
-<div align="center" style="line-height: 2.6">
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=nodedotjs&logoColor=4FC08D" /> &ensp;
   <img src="https://img.shields.io/badge/Express-38352A?style=for-the-badge&logo=express&logoColor=4FC08D" /> &ensp;
   <img src="https://img.shields.io/badge/React-563D7C?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" /> &ensp;
