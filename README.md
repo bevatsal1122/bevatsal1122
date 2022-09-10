@@ -21,7 +21,7 @@ I'm a Full Stack Developer with 1+ Years of hands-on experience on designing, de
 I love learning new things and developing real world projects ✨
 
 
-E: bevatsal1122@gmail.com <br />
+E: heyvatsal1506@gmail.com <br />
 Let's do something great!!
 </strong>
 
