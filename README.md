@@ -29,7 +29,7 @@ Let's do something great!!
 <br />
 
 <p>
-<h1 align="center"><strong>Tech Store</strong></h1>
+<h1 align="center"><strong>🛠 Tech. Store</strong></h1>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=nodedotjs&logoColor=4FC08D" /> &ensp;
@@ -50,7 +50,7 @@ Let's do something great!!
 </p>
 
 <br />
-<h1 align="center"><strong>Statistics</strong></h1>
+<h1 align="center"><strong>📈 Statistics</strong></h1>
 <br/>
 <p align="left">
   <img width="49.2%" src="https://github-readme-stats.vercel.app/api?username=bevatsal1122&show_icons=true&theme=gruvbox&hide_border=true" />
