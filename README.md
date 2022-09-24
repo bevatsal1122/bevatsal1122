@@ -38,6 +38,7 @@ Let's do something great!!
   <img src="https://img.shields.io/badge/MongoDB-c58545?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/Meteor-5B665B?style=for-the-badge&logo=meteor&logoColor=green" /> &ensp;
   <img src="https://img.shields.io/badge/-C++-38352A?style=for-the-badge&logo=cplusplus&logoColor=98b982&labelColor=282828" /> &ensp;
+  <img src="https://img.shields.io/badge/-Java-35495E?style=for-the-badge&logo=java&logoColor=4FC08D" /> &ensp;
   <img src="https://img.shields.io/badge/-Python-d1a01f?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/-C-0769AD?style=for-the-badge&logo=c&logoColor=black" /> &ensp;
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828" /> &ensp;
