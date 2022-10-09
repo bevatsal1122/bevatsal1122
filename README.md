@@ -5,18 +5,22 @@
 <br>
 
 <a href="https://linkedin.com/in/bevatsal1122" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=black style="margin-bottom: 4px;" />
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=B10B00&style=for-the-badge&logo=linkedin&logoColor=black style="margin-bottom: 4px;" />
 </a>
 
 <a href="https://www.codechef.com/users/bevatsal1122" target="_blank">
-<img src=https://img.shields.io/badge/codechef-%2300acee.svg?color=6F5647&style=for-the-badge&logo=codechef&logoColor=black style="margin-bottom: 4px;" />
+<img src=https://img.shields.io/badge/codechef-%2300acee.svg?color=5E493C&style=for-the-badge&logo=codechef&logoColor=white style="margin-bottom: 4px;" />
+</a>
+
+<a href="https://www.hackerearth.com/@bevatsal1122" target="_blank">
+<img src=https://img.shields.io/badge/hackerearth-%2300acee.svg?color=030C63&style=for-the-badge&logo=hackerearth&logoColor=black style="margin-bottom: 4px;" />
 </a>
 
 <br />
 <br />
 
 <strong>
-I'm a Full Stack Developer with 1+ Years of hands-on experience on designing, developing and implementing Applications and Solutions using a range of Technologies, Frameworks & Programming Languages.
+I'm a Full Stack Developer with 2+ Years of hands-on experience on designing, developing and implementing Applications and Solutions using a range of Technologies, Frameworks & Programming Languages.
 
 I love learning new things and developing real world projects ✨
 
