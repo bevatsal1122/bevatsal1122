@@ -1,9 +1,8 @@
 <div align="center">
-<img alt="" src="./bevat-0.gif" height="115%" no-repeat/>
+<h1 align="center"><strong>Hi there, I'm Vatsal Sanchala </strong><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /></h1>
+<h3 align="center"><strong>Enthusiastic Software Developer 💯</strong></h3>
 
-<br />
-<br />
-<br />
+<br>
 
 <a href="https://linkedin.com/in/bevatsal1122" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=B10B00&style=for-the-badge&logo=linkedin&logoColor=black style="margin-bottom: 4px;" />
