@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="" src="./bevat-0.gif" height="115%"/>
+<img alt="" src="./bevat-0.gif" height="115%" no-repeat/>
 
 <br />
 <br />
