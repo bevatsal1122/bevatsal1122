@@ -39,6 +39,7 @@ Let's do something great!!
   <img src="https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=nodedotjs&logoColor=4FC08D" /> &ensp;
   <img src="https://img.shields.io/badge/Express-38352A?style=for-the-badge&logo=express&logoColor=4FC08D" /> &ensp;
   <img src="https://img.shields.io/badge/React-563D7C?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" /> &ensp;
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/MongoDB-c58545?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/Meteor-5B665B?style=for-the-badge&logo=meteor&logoColor=green" /> &ensp;
   <img src="https://img.shields.io/badge/-C++-38352A?style=for-the-badge&logo=cplusplus&logoColor=98b982&labelColor=282828" /> &ensp;
@@ -64,6 +65,6 @@ Let's do something great!!
 </p>
 <br />
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=bevatsal1122&custom_title=Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bevatsal1122&custom_title=bevatsal1122's%20Contribution&bg_color=282828&color=BABABA&line=d1a01f&point=c58545&area=true&hide_border=true)
 
 [![@vatsal1506's Holopin board](https://holopin.io/api/user/board?user=vatsal1506)](https://holopin.io/@vatsal1506)
