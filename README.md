@@ -20,9 +20,9 @@
 <br />
 
 <strong>
-I'm a Full Stack Developer with 2+ Years of hands-on experience on designing, developing and implementing Applications and Solutions using a range of Technologies, Frameworks & Programming Languages.
+I'm a Full Stack Developer with 2+ Years of hands-on experience in designing, developing, and implementing Applications and Solutions using a range of technologies, frameworks, and programming languages.
 
-I love learning new things and developing real world projects ✨
+I love learning new things and developing real-world projects ✨
 
 
 E: heyvatsal1506@gmail.com <br />
@@ -65,6 +65,6 @@ Let's do something great!!
 </p>
 <br />
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bevatsal1122&custom_title=bevatsal1122's%20Contribution&bg_color=282828&color=BABABA&line=d1a01f&point=c58545&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bevatsal1122&custom_title=bevatsal1122's%20Contribution&bg_color=282828&color=BABABA&line=d1a01f&point=c58545&area=true&hide_border=true)
 
 [![@vatsal1506's Holopin board](https://holopin.io/api/user/board?user=vatsal1506)](https://holopin.io/@vatsal1506)
