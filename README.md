@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"><strong>Hi there, I'm Vatsal Sanchala </strong><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /></h1>
+<h1 align="center"><strong>Hii there, I'm Vatsal Sanchala </strong><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /></h1>
 <h3 align="center"><strong>Enthusiastic Software Developer 💯</strong></h3>
 
 <br>
@@ -59,7 +59,7 @@ Let's do something great!!
 <h1 align="center"><strong>📈 Statistics</strong></h1>
 <br/>
 <p align="left">
-  <img width="49.2%" src="https://github-readme-stats.vercel.app/api?username=bevatsal1122&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=bevatsal1122&show_icons=true&theme=gruvbox&hide_border=true" />
   <img width="49.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=bevatsal1122&theme=gruvbox&hide_border=true" />
   </a>
 </p>
