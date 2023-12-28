@@ -16,15 +16,12 @@
 </h1>
 <br />
 
-
 <h3>
   I'm a Full Stack Developer with 2+ Years of hands-on experience in designing, developing, and implementing Applications and Solutions using a range of technologies, frameworks, and programming languages.
   I love learning new things and developing real-world projects ✨
 </h3>
 
-### E: heyvatsal1506@gmail.com <br /> Let's build something more great!!
-
-
+### E: heyvatsal1506@gmail.com <br /> Let's build something great!
 
 </div>
 <br />
@@ -52,6 +49,7 @@
   <img src="https://img.shields.io/badge/-Javascript-d1a01f?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=563D7C" /> &ensp;
   <img src="https://img.shields.io/badge/Firebase-c58545?style=for-the-badge&logo=firebase&logoColor=F1E715&labelColor=282828" /> &ensp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> &ensp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> &ensp;
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> &ensp;
   <img src="https://img.shields.io/badge/-HTML5-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828" /> &ensp;
@@ -79,7 +77,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bevatsal1122&custom_title=bevatsal1122's%20Contribution&bg_color=282828&color=BABABA&line=d1a01f&point=c58545&area=true&hide_border=true)
 
 [![@vatsal1506's Holopin board](https://holopin.io/api/user/board?user=vatsal1506)](https://holopin.io/@vatsal1506)
-
-<a href="https://www.buymeacoffee.com/bevatsal1122" target="blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> &ensp;
-</a>
+<br />
+<br />
+### Created with ❤️ by bevatsal1122 (Vatsal Sanchala)
