@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/bevatsal1122/bevatsal1122/blob/main/geek.gif" style="width: 170px;" />
+<img align="left" src="https://github.com/bevatsal1122/bevatsal1122/blob/main/geek.gif" style="width: 220px;" />
   
 <h1 align="center">
   <strong>
@@ -22,7 +22,8 @@
 </h3>
 
 <strong>
-  E: heyvatsal1506@gmail.com <br />
+  E: heyvatsal1506@gmail.com
+  <br />
   Let's do something great!!
 </strong>
 
