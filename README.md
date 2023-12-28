@@ -7,8 +7,8 @@
     <br/>
     <h6 align="center">Enthusiastic Software Developer 💯</h6>
     <p>
-      <a href="https://linkedin.com/in/bevatsal1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bevatsal1122" height="33" width="43" /></a>
-      <a href="https://stackoverflow.com/users/16840241/vatsal-sanchala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vatsal-sanchala" height="33" width="43" /></a>
+      <a href="https://linkedin.com/in/bevatsal1122" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bevatsal1122" height="33" width="43" /></a>
+      <a href="https://stackoverflow.com/users/16840241/vatsal-sanchala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vatsal-sanchala" height="33" width="43" /></a>
       <a href="https://twitter.com/bevatsal1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bevatsal1122" height="33" width="43" /></a>
       <a href="https://devfolio.co/@bevatsal1122" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" height="33" width="35" style="border-radius: 50;"/></a>
     </p>
