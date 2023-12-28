@@ -9,8 +9,8 @@
     <p>
       <a href="https://linkedin.com/in/bevatsal1122" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bevatsal1122" height="33" width="43" /></a>
       <a href="https://stackoverflow.com/users/16840241/vatsal-sanchala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vatsal-sanchala" height="33" width="43" /></a>
-      <a href="https://twitter.com/bevatsal1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bevatsal1122" height="33" width="43" /></a>
-      <a href="https://devfolio.co/@bevatsal1122" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" height="33" width="35" style="border-radius: 50;"/></a>
+      <a href="https://twitter.com/bevatsal1122" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bevatsal1122" height="33" width="43" /></a>
+      <a href="https://devfolio.co/@bevatsal1122" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" height="33" width="35" style="border-radius: 50;"/></a>
     </p>
   </strong>
 </h1>
@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> &ensp;
   <img src="https://img.shields.io/badge/-HTML5-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/-CSS3-0769AD?style=for-the-badge&logo=css3&logoColor=0769AD&labelColor=282828" /> &ensp;
-  	
 
 </div>
 </p>
