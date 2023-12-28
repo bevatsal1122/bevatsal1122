@@ -17,7 +17,7 @@
 <br />
 
 <h3>
-  I'm a Full Stack Developer with 2+ Years of hands-on experience in designing, developing, and implementing Applications and Solutions using a range of technologies, frameworks, and programming languages.
+  I'm a Full Stack Developer with 2+ Years of hands-on experience in designing, developing, and implementing applications and solutions using a range of technologies, frameworks, and programming languages.
   I love learning new things and developing real-world projects ✨
 </h3>
 
