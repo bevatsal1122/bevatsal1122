@@ -62,14 +62,14 @@
 <h1 align="center"><strong>📈 Statistics</strong></h1>
 <br/>
 <p align="center">
-  <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=bevatsal1122&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=bevatsal1122&theme=gruvbox&hide_border=true" />
+  <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=bevatsal1122&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=bevatsal1122&theme=radical&hide_border=true" />
   </a>
 </p>
 <br />
 
 <h1 align="center"><strong>🏆 Trophies</strong></h1>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=bevatsal1122&theme=gruvbox" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=bevatsal1122&theme=radical" />
 
 <br />
 
