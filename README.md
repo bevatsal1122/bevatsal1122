@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> &ensp;
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> &ensp;
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> &ensp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> &ensp;
   <img src="https://img.shields.io/badge/Meteor-5B665B?style=for-the-badge&logo=meteor&logoColor=green" /> &ensp;
   <img src="https://img.shields.io/badge/-C++-38352A?style=for-the-badge&logo=cplusplus&logoColor=98b982&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/-Java-35495E?style=for-the-badge&logo=openjdk&logoColor=4FC08D" /> &ensp;
