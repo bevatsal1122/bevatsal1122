@@ -5,7 +5,7 @@
   <strong>
     Heyy there <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /> I'm Vatsal
     <br/>
-    <h6 align="center">Enthusiastic Software Developer 💯</h6>
+    <h6 align="center">Software Developer 💯</h6>
     <p>
       <a href="https://linkedin.com/in/bevatsal1122" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bevatsal1122" height="33" width="43" /></a>
       <a href="https://stackoverflow.com/users/16840241/vatsal-sanchala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vatsal-sanchala" height="33" width="43" /></a>
@@ -19,6 +19,7 @@
 <h3>
   I'm a Full Stack Developer with 2+ Years of hands-on experience in designing, developing, and implementing applications and solutions using a range of technologies, frameworks, and programming languages.
   I love learning new things and developing real-world projects ✨
+  I've won 3+ hackathons and built software solutions for 4+ startups 🚀
 </h3>
 
 ### E: heyvatsal1506@gmail.com <br /> Let's build something great!
