@@ -19,13 +19,11 @@
 <h3>
   I'm a Full Stack Developer with 2+ Years of hands-on experience in designing, developing, and implementing applications and solutions using a range of technologies, frameworks, and programming languages.
   I love learning new things and developing real-world projects ✨
-  I've won 3+ hackathons and built software solutions for 4+ startups 🚀
 </h3>
 
-### E: heyvatsal1506@gmail.com <br /> Let's build something great!
+### E: heyvatsal1506@gmail.com <br />
 
 </div>
-<br />
 
 <p>
 <h1 align="center"><strong>🛠 Tech Store</strong></h1>
