@@ -17,7 +17,7 @@
 <br />
 
 <h3>
-  I'm a Full Stack Developer with 2+ Years of hands-on experience in designing, developing, and implementing applications and solutions using a range of technologies, frameworks, and programming languages.
+  I'm a Full-stack Developer with 2+ Years of hands-on experience in designing, developing, and implementing applications and solutions using various technologies, frameworks, and programming languages. I've won over 4+ hackathons and built software solutions for over 5+ startups.
   I love learning new things and developing real-world projects ✨
 </h3>
 
@@ -31,7 +31,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Express-38352A?style=for-the-badge&logo=express&logoColor=4FC08D" /> &ensp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> &ensp;
-  <img src="https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=nodedotjs&logoColor=4FC08D" /> &ensp;
   <img src="https://img.shields.io/badge/React-563D7C?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" /> &ensp;
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> &ensp;
@@ -39,8 +38,11 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> &ensp;
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> &ensp;
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> &ensp;
+  <img src="https://img.shields.io/badge/-Typescript-0769AD?style=for-the-badge&logo=typescript&logoColor=black" /> &ensp;
+  <img src="https://img.shields.io/badge/Solidity-2C2D72?style=for-the-badge&logo=solidity&logoColor=white" /> &ensp;
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> &ensp;
   <img src="https://img.shields.io/badge/Meteor-5B665B?style=for-the-badge&logo=meteor&logoColor=green" /> &ensp;
+  <img src="https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=nodedotjs&logoColor=4FC08D" /> &ensp;
   <img src="https://img.shields.io/badge/-C++-38352A?style=for-the-badge&logo=cplusplus&logoColor=98b982&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/-Java-35495E?style=for-the-badge&logo=openjdk&logoColor=4FC08D" /> &ensp;
   <img src="https://img.shields.io/badge/SAS-2C2D72?style=for-the-badge&logo=SAS&logoColor=white" /> &ensp;
@@ -50,7 +52,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=563D7C" /> &ensp;
   <img src="https://img.shields.io/badge/Firebase-c58545?style=for-the-badge&logo=firebase&logoColor=F1E715&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> &ensp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> &ensp;
+  <img src="https://img.shields.io/badge/Postman-ff7c4d?style=for-the-badge&logo=postman&logoColor=white" /> &ensp;
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> &ensp;
   <img src="https://img.shields.io/badge/-HTML5-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/-CSS3-0769AD?style=for-the-badge&logo=css3&logoColor=0769AD&labelColor=282828" /> &ensp;
