@@ -18,6 +18,7 @@
 
 <h3>
   I'm a Full-Stack Developer with 2+ years of building and shipping scalable applications that solve real-world problems using various technologies and frameworks. I've won over 4+ hackathons and built software solutions for over 6+ startups.
+  <br />
   I love learning new things and solving real-world problems using code ✨
 </h3>
 
