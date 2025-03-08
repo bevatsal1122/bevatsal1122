@@ -1,24 +1,24 @@
+![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
 <div align="center">
-<img align="left" src="https://github.com/bevatsal1122/bevatsal1122/blob/main/geek.gif" style="width: 200px;" />
   
 <h1 align="center">
   <strong>
-    Heyy there <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /> I'm Vatsal
+    Hey there <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /> I'm Vatsal
     <br/>
-    <h6 align="center">Software Developer 💯</h6>
+    <h6 align="center">Software Developer</h6>
     <p>
       <a href="https://linkedin.com/in/bevatsal1122" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bevatsal1122" height="33" width="43" /></a>
-      <a href="https://stackoverflow.com/users/16840241/vatsal-sanchala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vatsal-sanchala" height="33" width="43" /></a>
       <a href="https://twitter.com/bevatsal1122" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bevatsal1122" height="33" width="43" /></a>
-      <a href="https://devfolio.co/@bevatsal1122" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" height="33" width="35" style="border-radius: 50;"/></a>
+      <a href="https://stackoverflow.com/users/16840241/vatsal-sanchala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vatsal-sanchala" height="33" width="43" /></a>
     </p>
   </strong>
 </h1>
 <br />
 
 <h3>
-  I'm a Full-stack Developer with 2+ Years of hands-on experience in designing, developing, and implementing applications and solutions using various technologies, frameworks, and programming languages. I've won over 4+ hackathons and built software solutions for over 5+ startups.
-  I love learning new things and developing real-world projects ✨
+  I'm a Full-Stack Developer with 2+ years of building and shipping scalable applications that solve real-world problems using various technologies and frameworks. I've won over 4+ hackathons and built software solutions for over 6+ startups.
+  I love learning new things and solving real-world problems using code ✨
 </h3>
 
 ### E: heyvatsal1506@gmail.com <br />
@@ -52,11 +52,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=563D7C" /> &ensp;
   <img src="https://img.shields.io/badge/Firebase-c58545?style=for-the-badge&logo=firebase&logoColor=F1E715&labelColor=282828" /> &ensp;
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> &ensp;
-  <img src="https://img.shields.io/badge/Postman-ff7c4d?style=for-the-badge&logo=postman&logoColor=white" /> &ensp;
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> &ensp;
-  <img src="https://img.shields.io/badge/-HTML5-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828" /> &ensp;
-  <img src="https://img.shields.io/badge/-CSS3-0769AD?style=for-the-badge&logo=css3&logoColor=0769AD&labelColor=282828" /> &ensp;
-
+... and many more
 </div>
 </p>
 
@@ -80,4 +77,4 @@
 [![@vatsal1506's Holopin board](https://holopin.io/api/user/board?user=vatsal1506)](https://holopin.io/@vatsal1506)
 <br />
 <br />
-### Created with ❤️ by bevatsal1122 (Vatsal Sanchala)
+### Created with ❤️ by bevatsal1122
