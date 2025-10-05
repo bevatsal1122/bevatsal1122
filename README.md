@@ -22,7 +22,7 @@
   I love learning new things and solving real-world problems using code ✨
 </h3>
 
-### E: heyvatsal1506@gmail.com <br />
+### E: bevatsal1122@gmail.com <br />
 
 </div>
 
