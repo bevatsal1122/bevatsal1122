@@ -9,7 +9,7 @@
     <h6 align="center">Software Developer</h6>
     <p>
       <a href="https://linkedin.com/in/bevatsal1122" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bevatsal1122" height="33" width="43" /></a>
-      <a href="https://twitter.com/bevatsal1122" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bevatsal1122" height="33" width="43" /></a>
+      <a href="https://twitter.com/xvatsall" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xvatsall" height="33" width="43" /></a>
       <a href="https://stackoverflow.com/users/16840241/vatsal-sanchala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vatsal-sanchala" height="33" width="43" /></a>
     </p>
   </strong>
